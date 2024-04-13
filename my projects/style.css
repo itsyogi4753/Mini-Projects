@@ -25,7 +25,7 @@ width:90vh;
     background-position:center;
     background-repeat: no-repeat;
     height:80vh;
-    border-radius:50px;
+    border-radius: 50px;
     color:white;
     cursor:pointer;
     flex:0.5;
@@ -41,17 +41,19 @@ width:90vh;
     left:20px;
     margin:0px;
     opacity:0;
+    color:white;
+    
 
 }
 .panel.active{
     flex:5;
 }
 .panel.active h3{
-    opacity:1;
+    opacity:01;
     transition:opacity 0.3s ease-in 0.4s;
-    color:whitesmoke;
-    left:150px;
-    top:285px; 
+    color:white;
+    left:110px;
+    top:270px; 
     
 }
 
